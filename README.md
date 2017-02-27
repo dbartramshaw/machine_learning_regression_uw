@@ -1,7 +1,7 @@
 # Machine Leanring - Regression
 Approaches based on the machine leanring course from the University of Washington
 
-Topics converged
+Topics convered:
  - Linear Regression
  - Multiple Regression
  - Model Selction and accuracy: Bias vs Variance
