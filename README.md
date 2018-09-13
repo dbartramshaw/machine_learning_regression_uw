@@ -1,5 +1,5 @@
 # Machine Leanring - Regression
-Approaches based on the machine leanring course from the University of Washington
+Approaches based on the machine learning course from the University of Washington. All methods coded in numpy from scratch.
 
 Topics convered:
  - Linear Regression
